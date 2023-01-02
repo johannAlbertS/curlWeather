@@ -7,3 +7,4 @@ You need
 2. a linux system running with a bash. (For other shells maybe change the shebang)
 ## Usuage
 Type `./weather.sh city` into your shell and replace "city" with the place you need the weatherforecast from. An Ascii-art with the weatherforecast will be printed. 
+If you forgot the argument the script will ask you for the city. 
